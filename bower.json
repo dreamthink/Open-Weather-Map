@@ -1,0 +1,14 @@
+{
+  "name": "open-weather-map",
+  "homepage": "https://github.com/dreamthink/Malala_Tribute",
+  "authors": [
+    "Emily Chen <emily.c.chen@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7"
+  }
+}
