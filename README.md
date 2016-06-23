@@ -1,1 +1,1 @@
-https://dreamthink.github.io/Open-Weather-Map/
+https://dreamthink.github.io/Open-Weather-Map/app
